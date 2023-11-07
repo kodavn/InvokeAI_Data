@@ -140,8 +140,23 @@ sd-1/lora/conceptLoongChinaDragon_v10:
    recommended: True
 sd-1/lora/ass_up_wait_feet:
    path: https://huggingface.co/kodavn/lora/resolve/main/ass_up_wait_feet.v2.safetensors   
+   recommended: False
+sd-1/lora/ass_up_wait_feet:
+   path: https://huggingface.co/kodavn/lora/resolve/main/polyhedron_skinny_all.pt
    recommended: True
-   
+sd-1/lora/ass_up_wait_feet:
+   path: https://huggingface.co/kodavn/lora/resolve/main/holywedding-04.safetensors   
+   recommended: True
+sd-1/lora/ass_up_wait_feet:
+   path: https://huggingface.co/kodavn/lora/resolve/main/detailed_eye-10.safetensors   
+   recommended: True
+sd-1/lora/ass_up_wait_feet:
+   path: https://huggingface.co/kodavn/lora/resolve/main/msRealLegsUp_v10.safetensors   
+   recommended: True
+
+
+
+
 sd-1/lora/Ink scenery:
    path: https://civitai.com/api/download/models/83390
    recommended: False

@@ -140,17 +140,17 @@ sd-1/lora/conceptLoongChinaDragon_v10:
 sd-1/lora/ass_up_wait_feet:
    path: https://huggingface.co/kodavn/lora/resolve/main/ass_up_wait_feet.v2.safetensors   
    recommended: False
-sd-1/lora/polyhedron_skinny_all:
-   path: https://huggingface.co/kodavn/lora/resolve/main/polyhedron_skinny_all.pt
+sd-1/lora/polyhdron_all_in_one_eyes_hands_skin_fin:
+   path: https://huggingface.co/kodavn/lora/resolve/main/polyhdron_all_in_one_eyes_hands_skin_fin.safetensors
    recommended: True
-sd-1/lora/holywedding-04:
-   path: https://huggingface.co/kodavn/lora/resolve/main/holywedding-04.safetensors   
+sd-1/lora/liuyifei:
+   path: https://huggingface.co/kodavn/lora/resolve/main/liuyifei.safetensors
    recommended: True
-sd-1/lora/detailed_eye-10:
-   path: https://huggingface.co/kodavn/lora/resolve/main/detailed_eye-10.safetensors   
+sd-1/lora/dilireba:
+   path: https://huggingface.co/kodavn/lora/resolve/main/dilireba.safetensors
    recommended: True
-sd-1/lora/msRealLegsUp_v10:
-   path: https://huggingface.co/kodavn/lora/resolve/main/msRealLegsUp_v10.safetensors   
+sd-1/lora/Titfuck_Realistic:
+   path: https://huggingface.co/kodavn/lora/resolve/main/Titfuck_Realistic.safetensors
    recommended: True
 
 

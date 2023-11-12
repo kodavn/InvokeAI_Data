@@ -3,14 +3,14 @@
 sd-1/main/stable-diffusion-RV5:
    description: Stable Diffusion rversion 1.5 diffusers model (4.27 GB)
    repo_id: SG161222/Realistic_Vision_V5.1_noVAE
-   recommended: True
-   default: True
+   recommended: False
+   default: False
 
 sd-1/main/Realistic_Vision_V5.1-inpainting:
    description: sd-1 main model Realistic_Vision_V5.1-inpainting
-   path: https://huggingface.co/SG161222/Realistic_Vision_V5.1_noVAE/resolve/main/Realistic_Vision_V5.1-inpainting.safetensors
+   path: https://huggingface.co/SG161222/Realistic_Vision_V5.1_noVAE/resolve/main/Realistic_Vision_V5.1-inpainting.ckpt
    recommended: True
-   default: False
+   default: True
    
 sd-1/main/stable-diffusion-v1-5:
    description: Stable Diffusion version 1.5 diffusers model (4.27 GB)

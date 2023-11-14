@@ -149,8 +149,8 @@ sd-1/lora/liuyifei:
 sd-1/lora/dilireba:
    path: https://huggingface.co/kodavn/lora/resolve/main/dilireba.safetensors
    recommended: True
-sd-1/lora/Titfuck_Realistic:
-   path: https://huggingface.co/kodavn/lora/resolve/main/Titfuck_Realistic.safetensors
+sd-1/lora/onoff4:
+   path: https://huggingface.co/kodavn/lora/resolve/main/onoff4.safetensors
    recommended: True
 
 

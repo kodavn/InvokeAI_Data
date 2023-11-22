@@ -6,9 +6,9 @@ sd-1/main/stable-diffusion-RV5:
    recommended: False
    default: False
 
-sd-1/main/Realistic_Vision_V5.1-inpainting:
-   description: sd-1 main model Realistic_Vision_V5.1-inpainting
-   path: https://huggingface.co/SG161222/Realistic_Vision_V5.1_noVAE/resolve/main/Realistic_Vision_V5.1-inpainting.ckpt
+sd-1/main/realisticvisionv51-inpainting:
+   description: sd-1 main model realisticvisionv51-inpainting
+   repo_id: redstonehero/realisticvisionv51-inpainting_pruned
    recommended: True
    default: True
    

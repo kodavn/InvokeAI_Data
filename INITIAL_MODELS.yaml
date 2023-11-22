@@ -6,7 +6,7 @@ sd-1/main/stable-diffusion-RV5:
    recommended: True
    default: True
    
-sd-1/main/epiCRealism-Natural_Sin_RC1_VAE:
+sd-1/main/epicphotogasm_v4One4All:
    description: sd-1 main model epicphotogasm_v4One4All
    repo_id: misri/epicphotogasm_v4One4All
    recommended: True

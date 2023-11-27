@@ -9,7 +9,7 @@ sd-1/main/stable-diffusion-RV5:
 sd-1/main/epicphotogasm_v4One4All:
    description: sd-1 main model epicphotogasm_v4One4All
    repo_id: misri/epicphotogasm_v4One4All
-   recommended: False
+   recommended: True
    default: False
 
 sd-1/main/epiCRealism-Natural_Sin_RC1_VAE:
@@ -152,11 +152,11 @@ sd-1/lora/polyhedron_skinny_all:
 sd-1/lora/liuyifei:
    path: https://huggingface.co/kodavn/lora/resolve/main/liuyifei.safetensors
    recommended: True
-sd-1/lora/dilireba:
-   path: https://huggingface.co/kodavn/lora/resolve/main/dilireba.safetensors
+sd-1/lora/Creampie_v11:
+   path: https://huggingface.co/kodavn/lora/resolve/main/Creampie_v11.safetensors
    recommended: True
-sd-1/lora/onoff4:
-   path: https://huggingface.co/kodavn/lora/resolve/main/onoff4.safetensors
+sd-1/lora/Asian_girls_faceV2:
+   path: https://huggingface.co/kodavn/lora/resolve/main/Asian_girls_faceV2.safetensors
    recommended: True
 
 

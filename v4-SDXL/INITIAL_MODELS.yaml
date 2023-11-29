@@ -12,7 +12,7 @@ sdxl-refiner/main/stable-diffusion-xl-refiner-1-0:
 sdxl/main/RealVisXL_V2:
    description: RealVisXL_V2
    repo_id: SG161222/RealVisXL_V2.0
-   recommended: True
+   recommended: False
 
 sdxl/vae/sdxl-1-0-vae-fix:
    description: Fine tuned version of the SDXL-1.0 VAE

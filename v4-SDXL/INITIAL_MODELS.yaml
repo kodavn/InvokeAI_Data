@@ -19,11 +19,3 @@ sdxl/vae/sdxl-1-0-vae-fix:
    repo_id: madebyollin/sdxl-vae-fp16-fix
    recommended: True
    
-
-
-
-
-
-sd-1/lora/Ink scenery:
-   path: https://civitai.com/api/download/models/83390
-   recommended: False

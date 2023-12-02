@@ -6,9 +6,9 @@ sd-1/main/stable-diffusion-RV5:
    recommended: True
    default: True
 
-sd-1/main/epiCRealism-Natural_Sin_RC1_VAE:
-   description: sd-1 main model epiCRealism-Natural_Sin_RC1_VAE
-   repo_id: Justin-Choo/epiCRealism-Natural_Sin_RC1_VAE
+sd-1/main/Realistic_Vision_V6.0:
+   description: sd-1 main model Realistic_Vision_V6.0
+   repo_id: SG161222/Realistic_Vision_V6.0_B1_noVAE
    recommended: True
    default: False
  

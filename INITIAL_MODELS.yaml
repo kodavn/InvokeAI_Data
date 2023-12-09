@@ -9,7 +9,7 @@ sd-1/main/stable-diffusion-RV5:
 sd-1/main/Realistic_Vision_V6.0:
    description: sd-1 main model Realistic_Vision_V6.0
    repo_id: SG161222/Realistic_Vision_V6.0_B1_noVAE
-   recommended: True
+   recommended: False
    default: False
  
 sd-1/main/stable-diffusion-v1-5:

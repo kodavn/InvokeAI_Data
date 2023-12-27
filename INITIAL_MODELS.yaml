@@ -160,9 +160,6 @@ sd-1/lora/liuyifei:
 sd-1/lora/Creampie_v11:
    path: https://huggingface.co/kodavn/lora/resolve/main/Creampie_v11.safetensors
    recommended: True
-sd-1/lora/Asian_girls_faceV2:
-   path: https://huggingface.co/kodavn/lora/resolve/main/Asian_girls_faceV2.safetensors
-   recommended: True
 
 
 
